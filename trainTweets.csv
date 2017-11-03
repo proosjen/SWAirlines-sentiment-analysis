@@ -12,7 +12,7 @@ id_str,text,category
 9.26328E+17,Thank you @SouthwestAir for providing me with a voucher after a delay during my travel plans this past week. #bestairline,positive
 9.26328E+17,@SouthwestAir I love this story!,positive
 9.2633E+17,@lovejozie @SouthwestAir Its my disguise for my corporate name ,neutral
-9.26333E+17,@WillBurke24 @SouthwestAir Absolute drama,neutral
+9.26333E+17,@WillBurke24 @SouthwestAir Absolute drama,negative
 9.26333E+17,"This 6-year-old girl wants to be a Southwest Airlines pilot so badly, she wears a uniform on every flight https://t.co/ipkM1d8Gig",positive
 9.26335E+17,#SouthwestAir Trying Out In-#Flight Live Music - Nasdaq : https://t.co/YiRmSakZKT,neutral
 9.26335E+17,@SouthwestAir @heyd4rth,neutral
@@ -21,8 +21,8 @@ id_str,text,category
 9.26336E+17,"@Jimapedia @MCO #RaceToMCO @PHLAirport @BUFAirport @SouthwestAir https://t.co/AwypahpXyC",neutral
 9.26341E+17,wtf @SouthwestAir losing my bag!!!!!!!!!!!!,negative
 9.26344E+17,I might consider an Orlando City SC trip now https://t.co/6ritdLobk6,positive
-9.26344E+17,@jasminecainrock @SouthwestAir Yeah! Janis,neutral
-9.26344E+17,@SouthwestAir About time we have a non stop to Cabo! ,negative
+9.26344E+17,@jasminecainrock @SouthwestAir Yeah! Janis,positive
+9.26344E+17,@SouthwestAir About time we have a non stop to Cabo! ,neutral
 9.26345E+17,Ohooooo #luv https://t.co/L34gzH5xzK,positive
 9.26345E+17,This is the greatest thing thats happened since @realDonaldTrump had his twitter shut down https://t.co/IT4xGlO8Vf,positive
 9.26345E+17,Keep those mimosas flowing @SouthwestAir https://t.co/r1MgSCKzR7,positive
@@ -45,14 +45,14 @@ id_str,text,category
 9.2636E+17,@SouthwestAir  https://t.co/XPovNkytRL,neutral
 9.2636E+17,@SouthwestAir So what's up with that Honolulu flight??,negative
 9.26361E+17,Cautiously excited about these deals to O'ahu https://t.co/VIxEjWJ86v,positive
-9.26361E+17,Southwest Airlines To Feature Live Country Music Concerts On Its Flights #musician https://t.co/NBHno3IYZo https://t.co/kbP7Yb2PZK,positive
+9.26362E+17,Southwest Airlines To Feature Live Country Music Concerts On Its Flights #music https://t.co/cjxVp0X6S3 - via https://t.co/nLrAMmj0U1,neutral
 9.26362E+17,@MarkBermanFox26 @SouthwestAir I would've taken out more gear and put more on!!,neutral
 9.26363E+17,Southwest Airlines announces planes to fly to Hawaii in 2018. https://t.co/MW3oyETeIc,positive
 9.26365E+17, https://t.co/5HgrkEaei3,neutral
 9.26365E+17,Someone should please sue them https://t.co/kq3HJjQx9x,negative
-9.26366E+17,Southwest Airlines prepares for weekly and daily St. Louis to Cancun flights https://t.co/GXs6IBwpEt,neutral
+9.26366E+17,Southwest Airlines prepares for weekly and daily St. Louis to Cancun flights https://t.co/GXs6IBwpEt,positive
 9.26366E+17,@SouthwestAir Hook it up with a free round trip to Dayton so that I can catch a wedding,positive
-9.26367E+17,Lyft is partnering with you &amp; giving you 10 free rides Use code: DUSK &gt;&gt;&gt; Crazy about Southwest Airlines?,neutral
+9.26367E+17,Lyft is partnering with you &amp; giving you 10 free rides Use code: DUSK &gt;&gt;&gt; Crazy about Southwest Airlines?,positive
 9.26367E+17,@SouthwestAir No! Im trying to get my son home from college. Hes a swimmer and doesnt get released until morning https://t.co/seKOey79OY,negative
 9.26367E+17,@SouthwestAir I could cry... I cant afford these tickets... no thanksgiving with my son #singlemotherproblems,negative
 9.26368E+17,@SouthwestAir I did. Been checking fares for weeks. Theyve been high.,negative
@@ -62,9 +62,9 @@ id_str,text,category
 9.26374E+17,I just entered to win 100s of prizes from @lillypulitzer and @southwestair and you should too! https://t.co/qHzmbuOAkj #SummerInLilly,positive
 9.26376E+17,Rewards Case Study: Southwest Airlines Rapid Rewards https://t.co/ohupMqmKmL #loyalty #rewards via @smilerewards https://t.co/vri5eiFhsq,positive
 9.26376E+17,@AmericanAir is tripping. @SouthwestAir wya?,neutral
-9.26377E+17,Southwest Airlines prepares for weekly and daily St. Louis to Cancun flights https://t.co/tPiRRSFzxD,neutral
+9.26377E+17,Southwest Airlines prepares for weekly and daily St. Louis to Cancun flights https://t.co/tPiRRSFzxD,positive
 9.26378E+17,@glassj3n @BUFAirport @MCO #RaceToMCO presented by @SouthwestAir,neutral
-9.26379E+17,Southwest Airlines prepares for weekly and daily St. Louis to Cancun flights https://t.co/0Ip9D3qWgg,neutral
+9.26379E+17,Southwest Airlines prepares for weekly and daily St. Louis to Cancun flights https://t.co/0Ip9D3qWgg,positive
 9.26379E+17,We love flying @southwestair. They are THE best when flying with infants. @ Charleston https://t.co/1p2TGwYo0w,positive
 9.26381E+17,@SouthwestAir why are people missing their flights because of this longline at Newark airport?!?!Crazy!!!@TSA whats https://t.co/ylVCUrwNZO,negative
 9.26382E+17,Rewards Case Study: Southwest Airlines Rapid Rewards https://t.co/MZ3DnW2om7 #loyalty via @smilerewards https://t.co/jQORqkpOVM,positive
@@ -75,27 +75,77 @@ id_str,text,category
 9.26385E+17,"Cmon everyone! Sing along if you know the words...Hit the plane down, theres no survivors... https://t.co/d2mJztZiXf",neutral
 9.26385E+17,@JMNashville @SouthwestAir and there are those of us who do not drink and would love a 'Naked Juice.' Time for innovation!,negative
 9.26388E+17,@SouthwestAir She has to wait till 7am now,negative
-9.26388E+17,Southwest Airlines To Feature Live Country Music Concerts On Its Flights #musician https://t.co/1B0WIikgQQ https://t.co/1WO5MkgbTX,positive
+9.26388E+17,Southwest Airlines To Feature Live Country Music Concerts On Its Flights #musician https://t.co/1B0WIikgQQ https://t.co/1WO5MkgbTX,neutral
 9.26389E+17,"HS students @davidsonacademy researching superb customer engagement @SouthwestAir - as a VERY frequent flyer..I ageee!#teacher #writerslife",positive
-9.26389E+17,I normally love @SouthwestAir. But cancelling flight reservations with literally no notice isnt cool under any circumstance.,negative
-9.2639E+17,"@deray @SouthwestAir Oh no . . . Southwest is my favorite carrier too. If they're gonna start that nonsense though, https://t.co/8ds9JotJOq",negative
+9.26389E+17,I normally love @SouthwestAir. But cancelling flight reservations with literally no notice isnt cool under any circumstance.,neutral
+9.2639E+17,"@deray @SouthwestAir Oh no . . . Southwest is my favorite carrier too. If they're gonna start that nonsense though, https://t.co/8ds9JotJOq",neutral
 9.2639E+17,@deray @SouthwestAir I'm sure they'll make it right.  I @SouthwestAir they're the best.  Flying #Southwest to Veg https://t.co/vdTkfpOoMH,positive
 9.2639E+17,who tf wants to listen to a concert on a plane. i try to pass out even before we take off https://t.co/o0yDim6hTf,negative
-9.2639E+17,Southwest Airlines To Feature Live Country Music Concerts On Its Flights #music https://t.co/aWLk17CqlX https://t.co/rfW3Oi3s3X,positive
-9.2639E+17,Hey @SouthwestAir we have a missing pilot on flight 200 to ATL from LGA. Do u need me to step in??,negative
+9.2639E+17,Southwest Airlines To Feature Live Country Music Concerts On Its Flights #music https://t.co/aWLk17CqlX https://t.co/rfW3Oi3s3X,neutral
+9.2639E+17,Hey @SouthwestAir we have a missing pilot on flight 200 to ATL from LGA. Do u need me to step in??,neutral
 9.26391E+17,I should have just bought an @SouthwestAir ticket cause these other airlines are trash. @SouthwestAir start flying To Europe and others plz!,positive
 9.26391E+17,Southwest Airlines working on approvals to enter Hawaii market https://t.co/WquuRhfak4,positive
 9.26392E+17,Same. https://t.co/VuXpjoC8m4,neutral
-9.26392E+17,"Really, really sad to hear that @SouthwestAir will no longer fly out of FNT. You guys really are the best of the best.",negative
-9.26392E+17,Southwest Airlines prepares for weekly and daily St. Louis to Cancun flights https://t.co/b19WtFPgpS,neutral
+9.26392E+17,"Really, really sad to hear that @SouthwestAir will no longer fly out of FNT. You guys really are the best of the best.",neutral
+9.26392E+17,Southwest Airlines prepares for weekly and daily St. Louis to Cancun flights https://t.co/b19WtFPgpS,positive
 9.26392E+17,"Ramp Agent - Southwest Airlines - Denver, CO https://t.co/1SCDl6YFPc Job Denver",neutral
 9.26394E+17,Beech Hill Advisors Inc. Acquires New Position in #SouthwestAir #Airlines Company (LUV) - Week Herald : https://t.co/ur5hkXjRG0,neutral
 9.26395E+17,OMG #southwestairlines you are always looking for ways to making #flying and #traveling easier. https://t.co/HVNHlDVXix,positive
 9.26395E+17,@deray @SouthwestAir Messy,negative
 9.26395E+17,@SouthwestAir I understand. Just wanted you guys to know how loved you are. ,positive
-9.26396E+17,Bout to sleep this ENTIRE flight!   #Chicago  #LosAngeles #LegRoom @ Southwest Airlines at MDW https://t.co/b9JG29v7IZ,neutral
+9.26396E+17,Bout to sleep this ENTIRE flight!   #Chicago  #LosAngeles #LegRoom @ Southwest Airlines at MDW https://t.co/b9JG29v7IZ,positive
 9.26396E+17,Can someone teach me how to avoid getting stuck in the middle seat? @SouthwestAir,negative
 9.26397E+17,Convenient? Not at all ... security lines at @KCIAirport for a 6:30 am @SouthwestAir flight. Vote YES for a https://t.co/PES2s06bGM,negative
 9.26397E+17,So mad that Southwest Airlines is leaving Flint airport! Guess I need to find a new favorite airline.. any suggestions?,negative
 9.26399E+17,So upset that @SouthwestAir  is leaving Flint Bishop Airport! Guess I need a new favorite airline.. any suggestions?,negative
 9.26399E+17,Ok @SouthwestAir I see you and your exit row extra legroom. First time flying with you &amp; already ,positive
+9.26483E+17,@SouthwestAir Full site route page requires departure &amp; destination inputs - &amp; there are 3 airports in Bay Area. Campaign needs UX rethink.,negative
+9.26483E+17,"@AmericanAir missed my residency interview in Lubbock due to weather. @SouthwestAir had flights leaving at the same time, arrived on time ",positive
+9.26484E+17,The Only Thing Scarier Than #SouthwestAir's In-#Flight Concerts Is the Fact People Enjoy Them - Dallas Observer : https://t.co/8IDogTu93X,neutral
+9.26484E+17,Totally impressed with @SouthwestAir crew on my flight this morning. Witnessed a somewhat chaotic medical emergency handled very smoothly.,positive
+9.26484E+17,@deray @SouthwestAir My flight got canecled this morning and new flight out of a different airport is delayed. Anyw https://t.co/KMbaayRaOy,negative
+9.26484E+17,"@tans0077 @brownie0077 @Delta @SouthwestAir Dude, I feel for him. Their customer service sucks.",negative
+9.26484E+17,@SouthwestAir is always a step above the rest - turned down the lights &amp; sang happy bday to this woman for her 50th https://t.co/hD9hbnQMug,positive
+9.26484E+17,If u for Southwest Airlines... hit me in my INBOX!!!! Inbox.... not comment section!,neutral
+9.26484E+17,"According to this article, Zappos, Nordstrom, USAA, Southwest Airlines, and Publix, held the top spots for... https://t.co/hGuAAhjome",positive
+9.26484E+17,"Hey @southwestair , once a flight is delayed, can the decision be reversed?",neutral
+9.26484E+17,@SouthwestAir Still time with flight delay ;-) Thanks,positive
+9.26484E+17,"According to this article, Zappos, Nordstrom, USAA, Southwest Airlines, and Publix, held the top spots for... https://t.co/OlpCOmwLIa",positive
+9.26485E+17,@SouthwestAir destroyed my suitcase and Im tryna stay calm but Im literally so pissed,negative
+9.26485E+17,Southwest Sale! Fly Around The US From Just $41 One Way! https://t.co/zBgaGStoQo https://t.co/b8tL20Cepy,positive
+9.26485E+17,@16ajmain @AirborneCheetah Btw :3 https://t.co/lbapIiPHZo,neutral
+9.26485E+17,"Enroute from (KTRM) Jacqueline Cochran Regional Airport, flying SouthWest.-1.5minhttps://t.co/XIQotrUdK9 https://t.co/nkD6BnqFsd",neutral
+9.26485E+17,"The Secret to the Success of #SouthwestAirlines, #Google, and #RitzCarlton: Its Not What You think https://t.co/ATt6BhQKna",neutral
+9.26485E+17,@SouthwestAir do you know what the baggage claim phone number at RSW airport is?,neutral
+9.26486E+17,Good Deal! Southwest Sale! Fly Around The US From Just $41 One Way! https://t.co/7Mqrxg1isH https://t.co/uMtjZbrLq9 via TravelPiratesUS,positive
+9.26486E+17,@SouthwestAir how do I get my car rental receipt? Can I find this online?,neutral
+9.26486E+17,So disappointed in @SouthwestAir right now...,negative
+9.26486E+17,@SouthwestAir flt24 into Hou thanks Erica and Cat,neutral
+9.26486E+17,Southwest Airlines working on approvals to enter Hawaii market - Pacific Business News (Honolulu) https://t.co/EpXuxNIuqA,positive
+9.26486E+17,"@southwestair flt 772, flight attendants were amazing! Especially sweetheart JEAN! Sang my wife happy birthday toda https://t.co/DPK74AGJvP",positive
+9.26486E+17,New #job opening at #SouthwestAirlines in #Phoenix! Customer #Service #Representative https://t.co/eLgByBnuea https://t.co/WizolDctCz,neutral
+9.26487E+17,How do you delay us two hours because you have to switch planes but then give us a broken plane that needs a new cargo door @SouthwestAir,negative
+9.26487E+17,"Southwest Airlines flight #SWA1581 spotted at 20,025 feet! https://t.co/C5FAujGyLL",neutral
+9.26487E+17,@SouthwestAir 131 DEN to CUN,neutral
+9.26487E+17,"Southwest Airlines flight #SWA896 spotted at 1,725 feet! https://t.co/Iab1zBsyLA",neutral
+9.26487E+17,Technical #Operations- Engineering &amp; Reliability #... in #Dallas at #SouthwestAirlines #job https://t.co/g5oxkEbtF2 https://t.co/561I6OCK0Z,neutral
+9.26487E+17,@TrilliamGrant @SouthwestAir Mine was $36 #hatetobrag,neutral
+9.26487E+17,"I just participated in an #AmazonGiveaway for Southwest Airlines Gift Card $50. Check it out here: https://t.co/ciDgC5BcnN",positive
+9.26488E+17,"@SouthwestAir &amp; Jean made a bday cake from TP, oxygen mask for her bday crown and made her bday 1 to remember! Jean https://t.co/B0TniS1bZ1",positive
+9.26488E+17,@SouthwestAir Do you have a way to text the White Companion Pass card to members?,neutral
+9.26488E+17,@SouthwestAir @taylorcolee I left my beanie baby on a plane. You still have dat? You got it?,neutral
+9.26489E+17,"I just participated in an #AmazonGiveaway for Southwest Airlines Gift Card $50. Check it out here: https://t.co/bo4UWqhEA5",positive
+9.26489E+17,The 55th @KSHonorFlight has arrived! We welcome our heroes back with a water canon salute aboard @SouthwestAir! https://t.co/IRIP5IlYIw,positive
+9.26489E+17, https://t.co/WEHBNlqozQ,neutral
+9.26489E+17,"I just participated in an #AmazonGiveaway for Southwest Airlines Gift Card $50. Check it out here: https://t.co/c5M4zFTAOV",positive
+9.2649E+17,I fly Southwest out of MSY every single week and I have yet to see anyone sing.  :( https://t.co/mrgQjoV3Eq,neutral
+9.2649E+17,@southwestair How can I add my TSA PreCheck to my Boarding Pass??,neutral
+9.2649E+17,Thank you @SouthwestAir for the fantastic deals I just got for my families travels in Dec! It felt like Christmas came early! SW Air,positive
+9.2649E+17,@SouthwestAir my 1st time taking them in over 6 years we are waiting over hour and ten mins on the plane because of a door handle ugh.,negative
+9.2649E+17,Thank you @SouthwestAir for the fantastic deals I just got for my familys travels in Dec! It felt like Christmas came early! SW Air,positive
+9.26491E+17,"@SouthwestAir I purchased Wifi on my recent flight, but Wifi wouldn't connect during flight. Any chance I could get a refund for this?",negative
+9.26491E+17,"I just participated in an #AmazonGiveaway for Southwest Airlines Gift Card $50. Check it out here: https://t.co/jQoAqmHiVE",positive
+9.26491E+17, https://t.co/7NfCnJdC0g,neutral
+9.26491E+17,@southwestair called to get my known traveler number on my boarding pass but it is still not there,negative
+9.26491E+17,@Cal32Ellis @SouthwestAir Ask them if they have any exit seats available next time!,neutral
+9.26491E+17,These awesome students from @AndoverSchools volunteered to help @KSHonorFlight off the @SouthwestAir plane! https://t.co/ve2yCe49Uq,positive
