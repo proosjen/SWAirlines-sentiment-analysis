@@ -1,4 +1,11 @@
+import re
+import nltk
+
+stopwords = nltk.corpus.stopwords.words("english")
+whitelist = ["n't", "not"]
+
 class TweetCleanser:
+    
     def to_ascii(self, text):
         return text.encode('ascii', 'ignore').decode('ascii')
     
