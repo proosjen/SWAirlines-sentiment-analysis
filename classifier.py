@@ -94,11 +94,3 @@ def classify(tweet):
             final_sentiment = 'neutral'  
     
     return final_sentiment
-
-
-'''
-for i in range(800,830):
-    print(testTweets[i]['text'])
-    print(classify(testTweets[i]['processed_words']))
-'''
-
