@@ -16,7 +16,11 @@ with open('opinion-lexicon-English/positive-words.txt') as pos_words:
 with open('opinion-lexicon-English/negative-words.txt') as neg_words:
     negative_words = [word.strip('\n') for word in neg_words.readlines()]
 
-    
+'''
+This function returns the number of positive
+and the number negative words in a list of 
+preprocessed words in a tweet.
+'''
 def polarity_ratio(tweet_word_list):
     num_pos = 0
     num_neg = 0
@@ -27,7 +31,12 @@ def polarity_ratio(tweet_word_list):
             num_neg += 1
     return {'num_pos': num_pos, 'num_neg': num_neg}
 
-
+'''
+This function checks if the polarity ratio
+matches the classification returned by our
+classifier. If there is a match, a boolean
+True value is returned.
+'''
 def validate_polarity(classification, ratio):
     if classification == 'positive':
         if ratio['num_pos'] > ratio['num_neg']:
@@ -41,7 +50,14 @@ def validate_polarity(classification, ratio):
     else:
         return False
 
+'''
+The following two helper functions come from a 
+blog post by Laurent Luce on Twitter sentiment
+analysis using Python and NLTK. 
 
+The blog post can be found here: 
+https://www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/
+'''
 def get_words_in_tweets(tweets):
     allWords = []
     for (processed_words, category) in tweets:
@@ -54,10 +70,18 @@ def get_word_features(wordList):
     wordFeatures = wordList.keys()
     return wordFeatures
 
-
+'''
+The list of word features need to be extracted from the tweets. 
+word_features is a list with every distinct words ordered by
+frequency of appearance.
+'''
 word_features = get_word_features(get_words_in_tweets(trainTweets))
 
-
+'''
+Before we create our classifier, we need to decide what features
+are relevant. This feature extractor returns a dictionary indicating
+what words are contained in the tweet (document). 
+'''
 def extract_features(document):
     document_words = set(document)
     features = {}
@@ -66,16 +90,18 @@ def extract_features(document):
     return features
 
 
-
+# We can now apply the features to our classifier using the nltk method apply_features.
 training_set = nltk.classify.apply_features(extract_features, trainTweets)
 
 
 # Train a Naive Bayes classifier with training data
 classifier = nltk.NaiveBayesClassifier.train(training_set)
 
-#print classifier.show_most_informative_features(10)
-
-
+'''
+This function uses the classifier we built and classifies
+a tweet as positive, negative, or neutral. The sentiment
+determined is returned.
+'''
 def classify(tweet):
     classification = classifier.classify(extract_features(tweet))
     ratio = polarity_ratio(tweet)
